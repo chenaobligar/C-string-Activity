@@ -37,7 +37,9 @@ while(s[i]!='\0')
      
 
 printf("\nLength of String: %d\n", i);
+
 printf("\nVowels: %d\n", v);
+
 printf("\nConsonants: %d\n", c);
 
 return 0;
